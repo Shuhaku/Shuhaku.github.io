@@ -7,7 +7,8 @@ author: Shuhaku
 mermaid: true
 ---
 
-> This post may contain errors. Please use it for reference only. 🥹
+> This post may contain errors.  
+> Please use it for reference only. 🥹
 {: .prompt-warning }
 
 ## Development Environment
