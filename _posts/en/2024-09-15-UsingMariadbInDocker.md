@@ -8,7 +8,7 @@ mermaid: true
 ---
 
 > This post may contain errors.  
-> Please use it for reference only. 🥹
+> Please use it for reference only.
 {: .prompt-warning }
 
 ## Development Environment
